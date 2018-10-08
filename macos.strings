@@ -1849,7 +1849,7 @@
 
 "SecureId.PhoneNumber.ConfirmCode.Placeholder" = "Code";
 "SecureId.PhoneNumber.ConfirmCode.InputPlaceholder" = "Enter a code";
-"SecureId.PhoneNumber.ConfirmCode.Desc" = "Please enter the confirmation code we've just sent to %@. via SMS";
+"SecureId.PhoneNumber.ConfirmCode.Desc" = "Please enter the confirmation code we've just sent to %@ via SMS";
 
 
 "SecureId.Address.Header" = "ADDRESS";
