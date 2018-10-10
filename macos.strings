@@ -2263,3 +2263,8 @@
 "_NS70.title" = "View";
 "_NS81.title" = "View";
 "_NS88.title" = "Edit";
+
+
+"SelectAreaControl.Dimension.None" = "None";
+"SelectAreaControl.Dimension.Original" = "Original";
+"SelectAreaControl.Dimension.Square" = "Square";
