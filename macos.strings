@@ -2275,3 +2275,5 @@
 "EditImageControl.Reset" = "RESET";
 
 "Edit.Message.EditCurrentPhoto" = "Edit";
+
+"EditImageControl.Confirm.Discard" = "Are you sure you want to close and discard all changes?";
