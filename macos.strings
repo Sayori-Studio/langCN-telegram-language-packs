@@ -2281,3 +2281,7 @@
 "_NS:103.title" = "Edit";
 "_NS:167.title" = "Window";
 "_NS:81.title" = "View";
+
+
+"Message.Status.Archiving" = "%d% archiving";
+"Message.Status.Archived" = "archived folder";
