@@ -106,6 +106,9 @@
 "Chat.DropQuickDesc" = "in a quick way";
 "Chat.DropAsFilesDesc" = "without compression";
 
+"Chat.DropFolder.Title" = "Drop the folder here to send";
+"Chat.DropFolder.Desc" = "as archive";
+
 "Message.ActionsPanel.Delete" = "Delete";
 "Message.ActionsPanel.Forward" = "Forward";
 "Message.ActionsPanel.EmptySelected" = "Select messages";
