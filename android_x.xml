@@ -31,7 +31,7 @@
   <string name="language_dateFormatLocale">zh-CN</string>
   <string name="language_rtl">0</string>
   <string name="language_disable_lowercase">1</string>
-  <string name="language_continueInLanguagePopupText">**Telegram X** 现在可以以**简体中文**呈现。\n\n您是否想要切换 Telegram 应用的语言？\n\n您可以随时在「设置 - 语言」中撤销更改。</string>
+  <string name="language_continueInLanguagePopupText">**Telegram X** 现在可以以**简体中文**显示。\n\n您是否想要切换 Telegram 应用的语言？\n\n您可以随时在「设置 - 语言」中撤销更改。</string>
   <string name="language_appliedLanguage">Telegram 应用的语言已设置为简体中文。</string>
   <string name="MoreLanguages">更多语言</string>
   <string name="timestamp_now">刚刚发布</string>
@@ -79,11 +79,11 @@
   <string name="format_pingBest">Ping: %1$s 毫秒；延迟最低</string>
   <string name="format_ivAuthorDateSeparator">作于</string>
   <string name="format_dateViaBot">%1$s 通过 %2$s</string>
-  <string name="format_notificationTitle">%1$s (%2$s)</string>
-  <string name="format_notificationTitleShort">%1$s (%2$s)</string>
+  <string name="format_notificationTitle">%1$s（%2$s）</string>
+  <string name="format_notificationTitleShort">%1$s（%2$s）</string>
   <string name="messagesCount_one">%1$s</string>
   <string name="messagesCount_other">%1$s</string>
-  <string name="format_notificationContentGroup">%1$s: %2$s</string>
+  <string name="format_notificationContentGroup">%1$s：%2$s</string>
   <string name="format_sessionsAndWebsites">%1$s、%2$s</string>
   <string name="login_PhoneNumber">手机号码</string>
   <string name="login_Code">验证码</string>
@@ -161,6 +161,8 @@
   <string name="xAudios_other">%1$s 个音频</string>
   <string name="xPhotos_one">%1$s 张图片</string>
   <string name="xPhotos_other">%1$s 张图片</string>
+  <string name="xMedia_one">%1$s 个媒体文件</string>
+  <string name="xMedia_other">%1$s 个媒体文件</string>
   <string name="xVideos_one">%1$s 段视频</string>
   <string name="xVideos_other">%1$s 段视频</string>
   <string name="xViews_one">%1$s 次阅读</string>
@@ -391,12 +393,12 @@
   <string name="group_photo_deleted_you">您移除了群组头像</string>
   <string name="group_user_added">%1$s 添加了“%2$s”</string>
   <string name="group_user_self_added">您添加了 “%1$s”</string>
-  <string name="group_user_added_self">“%1$s” 添加了您</string>
+  <string name="group_user_added_self">“%1$s”添加了您</string>
   <string name="group_user_add">%1$s 加入了群组</string>
   <string name="group_user_add_self">您加入了此群组</string>
   <string name="group_user_removed">%1$s 移除了 %2$s</string>
-  <string name="group_user_self_removed">您移除了 “%1$s”</string>
-  <string name="group_user_removed_self">“%1$s” 将您移出了群组</string>
+  <string name="group_user_self_removed">您移除了“%1$s”</string>
+  <string name="group_user_removed_self">“%1$s”将您移出了群组</string>
   <string name="group_user_remove">%1$s 退出了群组</string>
   <string name="group_user_remove_self">您退出了此群组</string>
   <string name="group_user_join_by_link">%1$s 通过邀请链接加入了此群组</string>
@@ -464,7 +466,7 @@
   <string name="AirplaneModeDisable">禁用</string>
   <string name="EditName">编辑姓名</string>
   <string name="Stickers">表情</string>
-  <string name="NoAppToOpen">未找到打开此文件的应用程序</string>
+  <string name="NoAppToOpen">未找到能打开此文件的应用程序</string>
   <string name="CopyLine">复制行</string>
   <string name="TextNotLoadedHint">请等待文本加载完毕</string>
   <string name="Text">文本</string>
@@ -472,7 +474,7 @@
   <string name="fileSize_MB">%1$s MB</string>
   <string name="fileSize_KB">%1$s KB</string>
   <string name="DownloadingOf">%2$s - %1$s</string>
-  <string name="Downloading">正在下载 %2$s 中的%1$s</string>
+  <string name="Downloading">下载中：%1$s / %2$s</string>
   <string name="Confirm">确认</string>
   <string name="TooManyPublicChannels">抱歉，您已创建太多公开频道。 您要么改为创建一个私密频道，要么删除一个您现有的频道。</string>
   <string name="TooManyPublicLinks">抱歉，您已创建太多公开链接。您可以删除其中一个现有群组/频道的链接，或将其设为私有。</string>
@@ -480,8 +482,8 @@
   <string name="ProfilePhoto">头像</string>
   <string name="ChatPhoto">头像</string>
   <string name="ShowInChat">在对话中查看</string>
-  <string name="GroupIsFull">您尝试加入的群组人数已满</string>
-  <string name="PasswordIsInvalid">您输入的密码无效。</string>
+  <string name="GroupIsFull">您尝试加入的群组已满员</string>
+  <string name="PasswordIsInvalid">您输入的密码错误</string>
   <string name="InviteLinkInvalid">邀请链接无效或已过期</string>
   <string name="Language">语言</string>
   <string name="InlineBot">消息框内机器人</string>
@@ -534,14 +536,14 @@
   <string name="ShareYourLocation">是否分享您的位置信息？</string>
   <string name="ShareYouLocationInfo">此操作会把您当前的位置信息发送给机器人。</string>
   <string name="ShareYouLocationInline">机器人需要在您每次向其发送请求时获取您的位置信息，以便提供基于位置的查询结果。</string>
-  <string name="DetectLocationError">无法检测您的当前位置</string>
+  <string name="DetectLocationError">无法定位</string>
   <string name="ShareYouLocationUnableManually">手动选择</string>
   <string name="NoLocationAccess">此功能需要获取您的定位服务权限。</string>
   <string name="NoGoogleMaps">此功能需要安装 Google Maps 。</string>
   <string name="NoStorageAccess">此功能需要访问您的本地存储。</string>
   <string name="NoMicrophoneAccess">此功能需要访问麦克风。</string>
   <string name="NoCameraAccess">此功能需要访问相机。</string>
-  <string name="NoGalleryAccess">权限错误</string>
+  <string name="NoGalleryAccess">没有权限</string>
   <string name="Install">安装</string>
   <string name="ChatWithYourself">与您自己聊天</string>
   <string name="YouWereKicked">您已被移出此群组</string>
@@ -700,7 +702,7 @@
   <string name="ContactJoined">联系人已加入 Telegram</string>
   <string name="PinnedMessages">置顶消息</string>
   <string name="RepeatNotifications">重复通知</string>
-  <string name="RepeatNotificationsDisabled">已禁用</string>
+  <string name="RepeatNotificationsDisabled">关闭</string>
   <string name="ResetNotifications">重置所有通知策略</string>
   <string name="Default">默认</string>
   <string name="OnlyIfSilent">仅静音模式</string>
@@ -1193,8 +1195,11 @@
   <string name="ManageGroup">管理群组</string>
   <string name="Restricted">受限</string>
   <string name="PromotedByX">由 %1$s 设为管理员</string>
+  <string name="PromotedByXOnDate">由 %1$s 于 %2$s 设为管理员</string>
   <string name="BannedByX">被 %1$s 封禁</string>
+  <string name="BannedByXOnDate">被 %1$s 于 %2$s 封禁</string>
   <string name="RestrictedByX">被 %1$s 限制</string>
+  <string name="RestrictedByXOnDate">被 %1$s 于 %2$s 限制</string>
   <string name="EditGroup">编辑群组信息</string>
   <string name="GroupType">群组类型</string>
   <string name="WhoCanAddMembers">谁可以邀请成员</string>
@@ -1501,7 +1506,7 @@
   <string name="FailureMessageText">非常抱歉，此消息因为某些错误而无法显示。\n\n请将下面的错误信息通过邮件发送到 support@telegram.org 好让我们能够调查此问题，谢谢！</string>
   <string name="PrivacyCallsP2PTitle">端对端连接</string>
   <string name="PeerToPeerInfo">禁用端对端连接后，所有通话流量将使用 Telegram 服务器中转以避免泄露您的 IP 地址，但可能会轻微降低音质。</string>
-  <string name="AutoNightDisabled">禁用</string>
+  <string name="AutoNightDisabled">关闭</string>
   <string name="AutoNightAutomatic">自动</string>
   <string name="AutoNightScheduled">计划时段</string>
   <string name="AutoNightModeScheduledByLocation">获取当地日落/日出时间</string>
@@ -1934,8 +1939,8 @@
   <string name="ChangeLogText">**Telegram X** 已升级到 %1$s 版本\n\n新功能简述：\n%2$s</string>
 
   <string name="LoginErrorOffline">您现在正处于离线状态。请连接到互联网后再开始聊天。</string>
-  <string name="LoginErrorAirplane">您现在正处于飞行模式。请关闭它或者连接到 Wi-Fi 后再开始聊天。</string>
-  <string name="LoginErrorLongConnecting">Telegram X 无法与服务器快速建立连接。\n\n请检查您的网络连接或等待该提示自动消失。\n\n若您所处的地区无法连接 Telegram 服务器，代理服务器可帮助您访问 Telegram。</string>
+  <string name="LoginErrorAirplane">您现在正处于飞行模式。请关闭或连接到 Wi-Fi 后再开始聊天。</string>
+  <string name="LoginErrorLongConnecting">Telegram X 与服务器的连接十分缓慢。\n\n请检查您的网络连接或等待该提示自动消失。\n\n若您所处的地区无法连接 Telegram 服务器，可尝试使用代理服务器进行连接。</string>
 
   <string name="HelpEmailError">请发送邮件到 %1$s 来告诉我们您遇到的问题。</string>
 
@@ -1945,8 +1950,8 @@
   <string name="SignOutHint">您确定要登出帐号 %1$s 吗？所有私密对话记录都将丢失。</string>
 
   <string name="TdlibLogs">TDLib 日志</string>
-  <string name="TdlibLogsWarning">**警告：**TDLib 日志可能包含**私人数据**。\n\n请勿将它们分享给任何人，除非您知道您正在做什么。</string>
-  <string name="TdlibLogsWarningConfirm">已处理</string>
+  <string name="TdlibLogsWarning">**警告：**TDLib 日志可能包含**私人数据**。\n\n除非您已理解自己的行为，否则不要将它们分享给任何人。</string>
+  <string name="TdlibLogsWarningConfirm">继续</string>
 
   <string name="NoEmailApp">未找到电子邮件应用</string>
 
@@ -2240,6 +2245,10 @@
   <string name="xMasks_two">%1$s 个装饰</string>
   <string name="xMasks_few">%1$s 个装饰</string>
   <string name="xMasks_many">%1$s 个装饰</string>
+  <string name="xMedia_zero">%1$s 个媒体文件</string>
+  <string name="xMedia_two">%1$s 个媒体文件</string>
+  <string name="xMedia_few">%1$s 个媒体文件</string>
+  <string name="xMedia_many">%1$s 个媒体文件</string>
   <string name="xMembers_zero">%1$s 位成员</string>
   <string name="xMembers_two">%1$s 位成员</string>
   <string name="xMembers_few">%1$s 位成员</string>
