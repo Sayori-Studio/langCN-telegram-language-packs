@@ -2288,3 +2288,4 @@
 
 "Message.Status.Archiving" = "%d% archiving";
 "Message.Status.Archived" = "archived folder";
+"Message.Status.ArchivePreparing" = "preparing";
