@@ -175,6 +175,7 @@
 "PreviewSender.CommentPlaceholder" = "Add a comment...";
 "PreviewSender.FileTooltip" = "Send without compression";
 "PreviewSender.CollageTooltip" = "Group all media into one message";
+"PreviewSender.ArchiveTooltip" = "Archive all media in one zip file";
 
 "PreviewSender.MediaTooltip" = "Send in a quick way";
 
@@ -2288,4 +2289,6 @@
 
 "Message.Status.Archiving" = "%d% archiving";
 "Message.Status.Archived" = "archived folder";
-"Message.Status.ArchivePreparing" = "preparing";
+"Message.Status.ArchivePreparing" = "preparing archive";
+"Message.Status.Archive.Failed" = "archivation failed";
+"Message.Status.Archive.FailedSizeLimit" = "file size limit exceeded";
