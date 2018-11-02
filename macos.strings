@@ -202,6 +202,7 @@
 "Chat.Service.Group.MigratedToSupergroup" = "This group was upgraded to a supergroup";
 "Chat.Service.Group.TookScreenshot" = "%@ took a screenshot";
 "Chat.Service.PinnedMessage" = "pinned message";
+"Chat.Service.PeerJoinedTelegram" = "%@ joined Telegram";
 
 "Chat.Service.Channel.UpdatedPhoto" = "channel photo updated";
 "Chat.Service.Channel.RemovedPhoto" = "channel photo removed";
@@ -357,7 +358,16 @@
 "AccountSettings.Logout" = "Logout";
 "NotificationSettings.ToggleNotifications" = "Notifications";
 "NotificationSettings.MessagesPreview" = "Message Preview";
-"NotificationSettings.IncludeMutedChats" = "Include muted chats in badge";
+"NotificationSettings.IncludeMutedChats" = "Include Muted Chats";
+"NotificationSettings.CountUnreadMessages" = "Count Unread Messages";
+
+"NotificationSettings.IncludePublicGroups" = "Include Public Groups";
+"NotificationSettings.IncludeChannels" = "Include Channels";
+
+
+"NotificationSettings.BadgeHeader" = "BADGE COUNTER";
+"NotificationSettings.BadgeDesc" = "Switch off to show the number of unread chats instead of messages.";
+
 
 "NotificationSettings.NotificationTone" = "Notification Tone";
 "NotificationSettings.ResetNotifications" = "Reset Notifications";
@@ -1584,6 +1594,8 @@
 "AppearanceSettings.ColorTheme.mojave" = "Dark Mojave";
 "AppearanceSettings.ChatView.Classic" = "Minimalist";
 "AppearanceSettings.ChatView.Bubbles" = "Bubbles";
+"AppearanceSettings.FollowSystemAppearance" = "Follow System Appearance";
+"AppearanceSettings.FollowSystemAppearance.DefaultDark" = "Select default dark palette which one will be used in dark system mode.";
 
 
 "AppearanceSettings.ChatPreview.UserName1" = "Lucio";
@@ -1591,6 +1603,8 @@
 "AppearanceSettings.ChatPreview.ZeroText" = "Reinhardt, we need to find you some new tunes 🎶.";
 "AppearanceSettings.ChatPreview.FirstText" = "Ah, you kids today with techno music! You should enjoy the classics, like Hasselhoff!";
 "AppearanceSettings.ChatPreview.SecondText" = "I can't even take you seriously right now.";
+
+
 
 "Chat.Empty.LinkPreview" = "Link Preview";
 
@@ -2013,6 +2027,9 @@
 "Chat.ProxySponsored.AlertSettings" = "Settings";
 "Chat.ProxySponsored.AlertHeader" = "Proxy Sponsor";
 
+"Chat.Channel.Unaccessible" = "Sorry, this channel is not accessible.";
+"Chat.Group.Unaccessible" = "Sorry, this group is not accessible.";
+
 "ProxySettings.Mtp.Sponsor" = "The proxy may display a sponsored channel in your chat list. This doesn't reveal any of your Telegram traffic.";
 
 
@@ -2292,3 +2309,5 @@
 "Message.Status.ArchivePreparing" = "preparing archive";
 "Message.Status.Archive.Failed" = "archivation failed";
 "Message.Status.Archive.FailedSizeLimit" = "file size limit exceeded";
+
+
