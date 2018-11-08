@@ -1595,7 +1595,9 @@
 "AppearanceSettings.ChatView.Classic" = "Minimalist";
 "AppearanceSettings.ChatView.Bubbles" = "Bubbles";
 "AppearanceSettings.FollowSystemAppearance" = "Follow System Appearance";
-"AppearanceSettings.FollowSystemAppearance.DefaultDark" = "Select default dark palette which one will be used in dark system mode.";
+"AppearanceSettings.FollowSystemAppearance.DefaultDark" = "Select default dark palette which one will be used in dark system appearance mode.";
+"AppearanceSettings.FollowSystemAppearance.DefaultDay" = "Select default day palette which one will be used in light system appearance mode.";
+"AppearanceSettings.FollowSystemAppearance.DefaultHeader" = "DEFAULT PALETTES";
 
 
 "AppearanceSettings.ChatPreview.UserName1" = "Lucio";
@@ -2298,10 +2300,10 @@
 "Edit.Message.EditCurrentPhoto" = "Edit";
 
 "EditImageControl.Confirm.Discard" = "Are you sure you want to close and discard all changes?";
-
-"_NS:103.title" = "Edit";
-"_NS:167.title" = "Window";
-"_NS:81.title" = "View";
+/*  */
+/* "_NS:103.title" = "Edit"; */
+/* "_NS:167.title" = "Window"; */
+/* "_NS:81.title" = "View"; */
 
 
 "Message.Status.Archiving" = "%d% archiving";
