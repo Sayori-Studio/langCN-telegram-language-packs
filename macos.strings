@@ -2301,9 +2301,9 @@
 
 "EditImageControl.Confirm.Discard" = "Are you sure you want to close and discard all changes?";
 /*  */
-/* "_NS:103.title" = "Edit"; */
-/* "_NS:167.title" = "Window"; */
-/* "_NS:81.title" = "View"; */
+"_NS:103.title" = "Edit";
+"_NS:167.title" = "Window";
+"_NS:81.title" = "View";
 
 
 "Message.Status.Archiving" = "%d% archiving";
