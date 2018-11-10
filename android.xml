@@ -1166,7 +1166,7 @@
     <string name="NotificationsGroups">Groups</string>
     <string name="NotificationsChannels">Channels</string>
     <string name="NotificationsExceptionsAlert">Please note that **%1$s** are listed as exceptions and won\'t be affected by this change.</string>
-    <string name="NotificationsExceptionsSingleAlert">Please note that **%1$s** is listed as exceptions and won\'t be affected by this change.</string>
+    <string name="NotificationsExceptionsSingleAlert">Please note that **%1$s** is listed as an exception and won\'t be affected by this change.</string>
     <string name="ViewExceptions">View Exceptions</string>
     <string name="NotificationsForGroups">Notifications for groups</string>
     <string name="NotificationsForPrivateChats">Notifications for private chats</string>
