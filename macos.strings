@@ -31,6 +31,7 @@
 
 
 /* do not translate key with 'countable' suffix */
+
 "Peer.Status.Member_countable" = "%d";
 "Peer.Status.Member_zero" = "%d members";
 "Peer.Status.Member_one" = "%d member";
@@ -1688,6 +1689,8 @@
 
 "Text.Context.Copy.Link" = "Copy Link";
 "Text.Context.Copy.Email" = "Copy Email";
+"Text.Context.Copy.Code" = "Copy Code";
+
 "Text.Context.Copy.Username" = "Copy Username";
 "Text.Context.Copy.Hashtag" = "Copy Hashtag";
 "Text.Context.Copy.Command" = "Copy Command";
