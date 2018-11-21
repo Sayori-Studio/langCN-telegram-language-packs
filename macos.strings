@@ -2244,12 +2244,30 @@
 
 "Gallery.Context.Share.ThisPhoto" = "This Photo";
 "Gallery.Context.Share.AllPhotos_countable" = "%d";
-"Gallery.Context.Share.AllPhotos_zero" = "All %d photos";
-"Gallery.Context.Share.AllPhotos_one" = "All %d photo";
-"Gallery.Context.Share.AllPhotos_two" = "All %d photos";
-"Gallery.Context.Share.AllPhotos_few" = "All %d photos";
-"Gallery.Context.Share.AllPhotos_many" = "All %d photos";
-"Gallery.Context.Share.AllPhotos_other" = "All %d photos";
+"Gallery.Context.Share.AllPhotos_zero" = "All %d Photos";
+"Gallery.Context.Share.AllPhotos_one" = "All %d Photo";
+"Gallery.Context.Share.AllPhotos_two" = "All %d Photos";
+"Gallery.Context.Share.AllPhotos_few" = "All %d Photos";
+"Gallery.Context.Share.AllPhotos_many" = "All %d Photos";
+"Gallery.Context.Share.AllPhotos_other" = "All %d Photos";
+
+
+"Gallery.Context.Share.ThisVideo" = "This Video";
+"Gallery.Context.Share.AllVideos_countable" = "%d";
+"Gallery.Context.Share.AllVideos_zero" = "All %d Videos";
+"Gallery.Context.Share.AllVideos_one" = "All %d Videos";
+"Gallery.Context.Share.AllVideos_two" = "All %d Videos";
+"Gallery.Context.Share.AllVideos_few" = "All %d Videos";
+"Gallery.Context.Share.AllVideos_many" = "All %d Videos";
+"Gallery.Context.Share.AllVideos_other" = "All %d Videos";
+
+"Gallery.Context.Share.AllItems_countable" = "%d";
+"Gallery.Context.Share.AllItems_zero" = "All %d Items";
+"Gallery.Context.Share.AllItems_one" = "All %d Items";
+"Gallery.Context.Share.AllItems_two" = "All %d Items";
+"Gallery.Context.Share.AllItems_few" = "All %d Items";
+"Gallery.Context.Share.AllItems_many" = "All %d Items";
+"Gallery.Context.Share.AllItems_other" = "All %d Items";
 
 
 "Gallery.Context.ShowGallery" = "Shared Media";
