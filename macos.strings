@@ -285,6 +285,9 @@
 "Gallery.Context.CopyToClipboard" = "Copy to Clipboard";
 "Gallery.ContextDeletePhoto" = "Delete";
 
+"Gallery.WaitDownload.Photo" = "Please for the photo to be fully downloaded.";
+"Gallery.WaitDownload.Video" = "Please for the video to be fully downloaded.";
+
 "Chat.Input.Accessory.EditMessage" = "Edit Message";
 "Chat.Message.edited" = "edited";
 
@@ -2334,3 +2337,6 @@
 "Message.Status.Archive.FailedSizeLimit" = "file size limit exceeded";
 
 
+
+/* "Conversation.SendMessageErrorFlood" = "Sorry, you can only send messages to mutual contacts at the moment."; */
+/* "Generic.ErrorMoreInfo" = "More Info"; */
