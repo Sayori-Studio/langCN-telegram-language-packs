@@ -24,6 +24,7 @@
 "Peer.Status.justNow" = "last seen just now";
 "Peer.Status.lastWeek" = "last seen within a week";
 "Peer.Status.lastMonth" = "last seen within a month";
+"Peer.Status.longTimeAgo" = "last seen a long time ago";
 
 "Peer.Status.Today" = "today";
 "Peer.Status.Yesterday" = "yesterday";
@@ -285,8 +286,8 @@
 "Gallery.Context.CopyToClipboard" = "Copy to Clipboard";
 "Gallery.ContextDeletePhoto" = "Delete";
 
-"Gallery.WaitDownload.Photo" = "Please for the photo to be fully downloaded.";
-"Gallery.WaitDownload.Video" = "Please for the video to be fully downloaded.";
+"Gallery.WaitDownload.Photo" = "Please wait for the photo to be fully downloaded.";
+"Gallery.WaitDownload.Video" = "Please wait for the video to be fully downloaded.";
 
 "Chat.Input.Accessory.EditMessage" = "Edit Message";
 "Chat.Message.edited" = "edited";
@@ -2338,5 +2339,6 @@
 
 
 
-/* "Conversation.SendMessageErrorFlood" = "Sorry, you can only send messages to mutual contacts at the moment."; */
-/* "Generic.ErrorMoreInfo" = "More Info"; */
+"Chat.SendMessageErrorFlood" = "Sorry, you can only send messages to mutual contacts at the moment.";
+"Chat.SendMessageErrorGroupRestricted" = "Sorry, you are currently restricted from posting to public groups.";
+"Generic.ErrorMoreInfo" = "More Info";
