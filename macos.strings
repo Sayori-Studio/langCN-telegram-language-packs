@@ -1354,6 +1354,7 @@
 "Entertainment.Stickers" = "STICKERS";
 "Entertainment.GIF" = "GIFs";
 "ShareModal.Search.Placeholder" = "Share to...";
+"ShareModal.Search.ForwardPlaceholder" = "Forward to...";
 "InstantPage.AuthorAndDateTitle" = "By %1$@ • %2$@";
 "IV.Channel.Join" = "Join";
 
