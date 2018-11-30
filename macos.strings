@@ -80,6 +80,9 @@
 "PeerInfo.DeleteAndExit" = "Delete and Exit";
 "PeerInfo.LeaveGroup" = "Leave Group";
 
+"PeerInfo.StopBot" = "Stop Bot";
+"PeerInfo.RestartBot" = "Restart Bot";
+
 "PeerInfo.LeaveChannel" = "Leave Channel";
 "PeerInfo.Report" = "Report";
 "PeerInfo.sharelink" = "share link";
@@ -223,6 +226,7 @@
 "Chat.Input.Delete" = "Delete and exit";
 "Chat.Input.Join" = "Join";
 "Chat.Input.Unblock" = "Unblock";
+"Chat.Input.Restart" = "Restart";
 
 "Message.Context.Reply1" = "Reply";
 "Message.Context.ReplyHelp" = "double click";
@@ -527,7 +531,8 @@
 "ChatList.UnsupportedMessage" = "Message is not supported";
 "Chat.Message.Unsupported" = "This message is not supported by your version of Telegram. Please update to the latest version from the AppStore or install it from https://macos.telegram.org";
 "Text.Copy" = "Copy Selected Text";
-
+"Text.CopyText" = "Copy Text";
+"Text.CopyLabel" = "Copy %@";
 
 "Peer.Activity.User.TypingText" = "typing";
 "Peer.Activity.User.SendingPhoto" = "sending a photo";
@@ -754,6 +759,8 @@
 "ReportReason.Spam" = "Spam";
 "ReportReason.Violence" = "Violence";
 "ReportReason.Porno" = "Pornography";
+"ReportReason.ChildAbuse" = "Child Abuse";
+"ReportReason.Copyright" = "Copyright";
 "PeerInfo.ChannelReported" = "Thank you! Your report will be reviewed by our team soon.";
 
 "PeerInfo.SignMessages.Desc" = "Append names of the admins to the messages they post.";
@@ -2327,9 +2334,9 @@
 
 "EditImageControl.Confirm.Discard" = "Are you sure you want to close and discard all changes?";
 /*  */
-"_NS:103.title" = "Edit";
-"_NS:167.title" = "Window";
-"_NS:81.title" = "View";
+/* "_NS:103.title" = "Edit"; */
+/* "_NS:167.title" = "Window"; */
+/* "_NS:81.title" = "View"; */
 
 
 "Message.Status.Archiving" = "%d% archiving";
