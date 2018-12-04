@@ -41,6 +41,15 @@
 "Peer.Status.Member_many" = "%d members";
 "Peer.Status.Member_other" = "%d members";
 
+
+"Peer.Status.Subscribers_countable" = "%d";
+"Peer.Status.Subscribers_zero" = "%d subscribers";
+"Peer.Status.Subscribers_one" = "%d subscriber";
+"Peer.Status.Subscribers_two" = "%d subscribers";
+"Peer.Status.Subscribers_few" = "%d subscribers";
+"Peer.Status.Subscribers_many" = "%d subscribers";
+"Peer.Status.Subscribers_other" = "%d subscribers";
+
 /* do not translate key with 'countable' suffix */
 "Peer.Status.Member.Online_countable" = "%d";
 "Peer.Status.Member.Online_zero" = "%d online";
@@ -227,6 +236,7 @@
 "Chat.Input.Join" = "Join";
 "Chat.Input.Unblock" = "Unblock";
 "Chat.Input.Restart" = "Restart";
+"Chat.Input.Close" = "Close";
 
 "Message.Context.Reply1" = "Reply";
 "Message.Context.ReplyHelp" = "double click";
@@ -720,6 +730,8 @@
 "PeerInfo.Confirm.AddMembers1_other" = "Add %d users to the group?";
 
 
+"PeerInfo.Confirm.Add" = "Add";
+
 "PeerInfo.Confirm.AddMember" = "Add \"%@\" to the group?";
 "PeerInfo.Confirm.RemovePeer" = "Remove \"%@\" from group?";
 
@@ -767,6 +779,7 @@
 "PeerInfo.SignMessages" = "Sign Messages";
 "PeerInfo.SetChannelPhoto" = "Set Channel Photo";
 "PeerInfo.Members" = "Members";
+"PeerInfo.Subscribers" = "Subscribers";
 "PeerInfo.DeleteChannel" = "Delete Channel";
 "PeerInfo.DeleteSecretChat" = "Delete Secret Chat";
 
@@ -1197,6 +1210,10 @@
 "EventLog.Service.RemovePinned" = "%@ unpinned message";
 "EventLog.Service.ChangedStickerSet" = "%@ changed group sticker set";
 "EventLog.Service.RemovedStickerSet" = "%@ removed group sticker set";
+
+"EventLog.Service.EditedCaption" = "%@ edited caption:";
+"EventLog.Service.EditedMedia" = "%@ edited media:";
+
 
 
 "Group.EventLog.Service.EnableInvites" = "%@ enabled group invites";
