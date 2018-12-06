@@ -1565,6 +1565,10 @@
 
 "Peer.SavedMessages" = "Saved Messages";
 
+"Stickers.SuggestStickers" = "Suggest Stickers by Emoji";
+"Stickers.SuggestAll" = "All Sets";
+"Stickers.SuggestAdded" = "My Sets";
+"Stickers.SuggestNone" = "None";
 
 
 "PrivacySettings.LastSeenEverybodyMinus" = "Everybody (-%@)";
