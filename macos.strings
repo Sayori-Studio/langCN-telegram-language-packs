@@ -2374,3 +2374,8 @@
 
 
 "Forward.ToSavedMessages" = "forward messages here for quick access";
+
+
+"GalleryView.FastSave.Image" = "Image saved to your [Download]() folder";
+"GalleryView.FastSave.Video" = "Video saved to your [Download]() folder";
+"GalleryView.FastSave.Gif" = "GIF saved to your [Download]() folder";
