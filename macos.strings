@@ -2427,12 +2427,25 @@
 
 
 "Chat.Poll.TotalVotes_countable" = "%d";
-"Chat.Poll.TotalVotes_zero" = "%d voted";
-"Chat.Poll.TotalVotes_one" = "%d voted";
-"Chat.Poll.TotalVotes_two" = "%d voted";
-"Chat.Poll.TotalVotes_few" = "%d voted";
-"Chat.Poll.TotalVotes_many" = "%d voted";
-"Chat.Poll.TotalVotes_other" = "%d voted";
+"Chat.Poll.TotalVotes_zero" = "%d person voted";
+"Chat.Poll.TotalVotes_one" = "%d person voted";
+"Chat.Poll.TotalVotes_two" = "%d person voted";
+"Chat.Poll.TotalVotes_few" = "%d person voted";
+"Chat.Poll.TotalVotes_many" = "%d person voted";
+"Chat.Poll.TotalVotes_other" = "%d person voted";
+
+
+"Chat.Poll.TotalVotesEmpty" = "no votes yet";
+"Chat.Poll.TotalVotesResultEmpty" = "no votes";
 
 "Chat.Poll.Result" = "%@%";
-"Chat.Poll.Type.Anonymous" = "Anonymous poll";
+"Chat.Poll.Type.Anonymous" = "Anonymous Poll";
+"Chat.Poll.Type.Closed" = "Final Results";
+
+"Chat.Poll.Unvote" = "Retract Vote";
+"Chat.Poll.Stop" = "Stop Poll";
+"Chat.Poll.Stop.Confirm.Header" = "Stop Poll?";
+"Chat.Poll.Stop.Confirm.Text" = "If you stop this poll now, nobody will be able to vote in it anymore. This action cannot be undone.";
+
+
+"Language.RemovePack" = "Are you sure you want to remove this lang-pack?";
