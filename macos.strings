@@ -219,7 +219,6 @@
 "Chat.Service.PinnedMessage" = "pinned message";
 "Chat.Service.PeerJoinedTelegram" = "%@ joined Telegram";
 
-"Chat.Service.Media.Poll" = "poll";
 
 
 "Chat.Service.Channel.UpdatedPhoto" = "channel photo updated";
@@ -292,6 +291,7 @@
 "InputAttach.Popover.Picture" = "Camera";
 "InputAttach.Popover.File" = "File";
 "InputAttach.Popover.Location" = "Location";
+"InputAttach.Popover.Poll" = "Poll";
 
 "Compose.Popover.NewGroup" = "New Group";
 "Compose.Popover.NewChannel" = "New Channel";
@@ -2427,12 +2427,12 @@
 
 
 "Chat.Poll.TotalVotes_countable" = "%d";
-"Chat.Poll.TotalVotes_zero" = "%d person voted";
+"Chat.Poll.TotalVotes_zero" = "%d persons voted";
 "Chat.Poll.TotalVotes_one" = "%d person voted";
-"Chat.Poll.TotalVotes_two" = "%d person voted";
-"Chat.Poll.TotalVotes_few" = "%d person voted";
-"Chat.Poll.TotalVotes_many" = "%d person voted";
-"Chat.Poll.TotalVotes_other" = "%d person voted";
+"Chat.Poll.TotalVotes_two" = "%d persons voted";
+"Chat.Poll.TotalVotes_few" = "%d persons voted";
+"Chat.Poll.TotalVotes_many" = "%d persons voted";
+"Chat.Poll.TotalVotes_other" = "%d persons voted";
 
 
 "Chat.Poll.TotalVotesEmpty" = "no votes yet";
@@ -2449,3 +2449,38 @@
 
 
 "Language.RemovePack" = "Are you sure you want to remove this lang-pack?";
+
+"NewPoll.Title" = "New Poll";
+"NewPoll.QuestionHeader" = "QUESTION";
+
+"NewPoll.QuestionHeaderLimit" = "QUESTION (%d)";
+
+"NewPoll.QuestionPlaceholder" = "Ask a question";
+"NewPoll.OptionsHeader" = "POLL OPTIONS";
+"NewPoll.OptionsPlaceholder" = "Option";
+"NewPoll.OptionsAddOption" = "Add an Option";
+
+"NewPoll.OptionsDescription_countable" = "%d";
+"NewPoll.OptionsDescription_zero" = "You can add %d more options";
+"NewPoll.OptionsDescription_one" = "You can add %d more options";
+"NewPoll.OptionsDescription_two" = "You can add %d more options";
+"NewPoll.OptionsDescription_few" = "You can add %d more options";
+"NewPoll.OptionsDescription_many" = "You can add %d more options";
+"NewPoll.OptionsDescription_other" = "You can add %d more options";
+
+
+"NewPoll.OptionsDescriptionMinimum_countable" = "%d";
+"NewPoll.OptionsDescriptionMinimum_zero" = "Minimum %d options";
+"NewPoll.OptionsDescriptionMinimum_one" = "Minimum %d options";
+"NewPoll.OptionsDescriptionMinimum_two" = "Minimum %d options";
+"NewPoll.OptionsDescriptionMinimum_few" = "Minimum %d options";
+"NewPoll.OptionsDescriptionMinimum_many" = "Minimum %d options";
+"NewPoll.OptionsDescriptionMinimum_other" = "Minimum %d options";
+
+
+
+"NewPoll.OptionsDescriptionLimitReached" = "You have added the maximum number of options.";
+
+"NewPoll.DisacardConfirm" = "Are you sure you want to discard this poll?";
+"NewPoll.DisacardConfirm.Yes" = "Yes";
+"NewPoll.DisacardConfirm.No" = "No";
