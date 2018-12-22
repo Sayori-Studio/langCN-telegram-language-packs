@@ -1507,6 +1507,9 @@
 "TwoStepAuth.EmailInvalid" = "Invalid e-mail address. Please try again.";
 "TwoStepAuth.EmailSent" = "We have sent you an e-mail to confirm your address.";
 
+"TwoStepAuth.EmailHelpChange" = "Please enter your new recovery email. It is the only way to recover a forgotten password.";
+
+
 "TwoStepAuth.RecoveryUnavailable" = "Since you haven't provided a recovery e-mail when setting up your password, your remaining options are either to remember your password or to reset your account.";
 "TwoStepAuth.RecoveryFailed" = "Your remaining options are either to remember your password or to reset your account.";
 
@@ -1516,7 +1519,7 @@
 "TwoStepAuth.RecoveryCodeHelp" = "Please check your e-mail and enter the 6-digit code we've sent there to deactivate your cloud password.";
 "TwoStepAuth.RecoveryCodeInvalid" = "Invalid code. Please try again.";
 "TwoStepAuth.RecoveryCodeExpired" = "Code Expired";
-"TwoStepAuth.RecoveryEmailUnavailable" = "Having trouble accessing your e-mail %@?";
+"TwoStepAuth.RecoveryEmailUnavailableNew" = "Having trouble accessing your e-mail\n[%@]()?";
 
 "TwoStepAuth.ConfirmEmailCodeDesc" = "Please enter the code we've just emailed at %@.";
 
@@ -2427,16 +2430,16 @@
 
 
 "Chat.Poll.TotalVotes_countable" = "%d";
-"Chat.Poll.TotalVotes_zero" = "%d persons voted";
-"Chat.Poll.TotalVotes_one" = "%d person voted";
-"Chat.Poll.TotalVotes_two" = "%d persons voted";
-"Chat.Poll.TotalVotes_few" = "%d persons voted";
-"Chat.Poll.TotalVotes_many" = "%d persons voted";
-"Chat.Poll.TotalVotes_other" = "%d persons voted";
+"Chat.Poll.TotalVotes_zero" = "%d voted";
+"Chat.Poll.TotalVotes_one" = "%d voted";
+"Chat.Poll.TotalVotes_two" = "%d voted";
+"Chat.Poll.TotalVotes_few" = "%d voted";
+"Chat.Poll.TotalVotes_many" = "%d voted";
+"Chat.Poll.TotalVotes_other" = "%d voted";
 
 
-"Chat.Poll.TotalVotesEmpty" = "no votes yet";
-"Chat.Poll.TotalVotesResultEmpty" = "no votes";
+"Chat.Poll.TotalVotesEmpty" = "No votes yet";
+"Chat.Poll.TotalVotesResultEmpty" = "No votes";
 
 "Chat.Poll.Result" = "%@%";
 "Chat.Poll.Type.Anonymous" = "Anonymous Poll";
@@ -2484,3 +2487,8 @@
 "NewPoll.DisacardConfirm" = "Are you sure you want to discard this poll?";
 "NewPoll.DisacardConfirm.Yes" = "Yes";
 "NewPoll.DisacardConfirm.No" = "No";
+
+
+"Passport.ResetPassword.Confirm.Header" = "Forgotten Password";
+"Passport.ResetPassword.Confirm.Text" = "All documents uploaded to your Telegram Passport will be lost. You will be able to upload new documents.";
+"Passport.ResetPassword.Confirm.OK" = "Reset";
