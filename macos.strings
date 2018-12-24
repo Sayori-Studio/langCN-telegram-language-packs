@@ -868,6 +868,9 @@
 "RecentSessions.Revoke" = "Revoke";
 "RecentSessions.Error.FreshReset" = "For security reasons, you can't terminate older sessions from a device that you've just connected. Please use an earlier connection or wait for a few hours.";
 
+"RecentSessions.IncompleteAttemptHeader" = "INCOMPLETE LOGIN ATTEMPTS";
+"RecentSessions.IncompleteAttemptDesc" = "These devices have no access to your account. The code was entered correctly, but no correct password was given.";
+
 "Legacy.Intro.Description1" = "Welcome to the new super-fast and stable Telegram for macOS, fully rewritten in Swift 3.0.";
 "Legacy.Intro.Description2" = "Please note that your existing secret chats will be available in read-only mode. You can of course create new ones to continue chatting.";
 "Legacy.Intro.Next" = "Start Messaging";
