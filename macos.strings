@@ -2412,7 +2412,6 @@
 "ApplyLanguage.UnsufficientDataOpenPlatform" = "Translation Platform";
 
 
-"ApplyLanguage.ChangeLanguageAlreadyActive" = "The language %1$@ is already active.";
 "ApplyLanguage.ChangeLanguageTitle" = "Change Language?";
 "ApplyLanguage.ChangeLanguageUnofficialText" = "You are about to apply a custom language pack **%@** that is %@% complete.\n\nThis will translate the entire interface. You can suggest corrections in the [translation panel]().\n\nYou can change your language back at any time in Settings.";
 "ApplyLanguage.ChangeLanguageOfficialText" = "You are about to apply a language pack **%@**.\n\nThis will translate the entire interface. You can suggest corrections in the [translation panel]().\n\nYou can change your language back at any time in Settings.";
