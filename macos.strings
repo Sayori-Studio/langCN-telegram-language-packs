@@ -352,9 +352,13 @@
 "Login.EnterPasswordDescription" = "You have enabled Two-Step Verification, your account is now protected with an additional password.";
 "Login.RecoveryMailFailed" = "Since you haven't provided a recovery e-mail when setting up your password, your remaining options are either to remember your password or to reset your account.";
 
-"Login.ResetAccount" = "RESET MY ACCOUNT";
+"Login.PasswordForgot" = "Forgot password?";
+"Login.ResetAccountText" = "Reset Account";
+
+
+"Login.ResetAccount" = "RESET";
 "Login.ResetAccountDescription" = "If you proceed with resetting your account, all of your chats and messages along with any media and files you shared, will be lost.";
-"Login.ResetAccount" = "RESET MY ACCOUNT";
+
 
 "PHONE_NUMBER_INVALID" = "Invalid phone number";
 "Login.FloodWait" = "Too many attempts, please try again later.";
@@ -1524,6 +1528,9 @@
 "TwoStepAuth.RecoveryCodeExpired" = "Code Expired";
 "TwoStepAuth.RecoveryEmailUnavailableNew" = "Having trouble accessing your e-mail\n[%@]()?";
 
+"TwoStepAuth.ResetDescription" = "Since the account **%@** is active and protected by a password, we will delete it in 1 week for security purposes.\n\nYou can cancel this process at any time.\n\nYou'll be able to reset your account in:\n%@";
+
+
 "TwoStepAuth.ConfirmEmailCodeDesc" = "Please enter the code we've just emailed at %@.";
 
 
@@ -2383,9 +2390,7 @@
 
 "EditImageControl.Confirm.Discard" = "Are you sure you want to close and discard all changes?";
 /*  */
-"_NS:103.title" = "Edit";
-"_NS:167.title" = "Window";
-"_NS:81.title" = "View";
+
 
 
 "Message.Status.Archiving" = "%d% archiving";
@@ -2494,3 +2499,12 @@
 "Passport.ResetPassword.Confirm.Header" = "Forgotten Password";
 "Passport.ResetPassword.Confirm.Text" = "All documents uploaded to your Telegram Passport will be lost. You will be able to upload new documents.";
 "Passport.ResetPassword.Confirm.OK" = "Reset";
+
+
+"CancelResetAccount.Title" = "Cancel Account Reset";
+"CancelResetAccount.TextSMS" = "Somebody with access to your phone number **%@** has requested to delete your Telegram account and reset your 2-Step Verification password.\n\nIf it wasn't you, please enter the code we've just sent you via SMS to your number.";
+"CancelResetAccount.Success" = "The deletion process was cancelled for your account %@.";
+
+"_NS:103.title" = "Edit";
+"_NS:167.title" = "Window";
+"_NS:81.title" = "View";
