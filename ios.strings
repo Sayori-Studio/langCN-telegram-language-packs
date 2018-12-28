@@ -103,7 +103,7 @@
 "MESSAGE_SCREENSHOT_SEPARATED" = "%1$@|took a screenshot";
 "MESSAGE_ROUND_SEPARATED" = "%1$@|sent you a video message";
 "MESSAGE_DOC_SEPARATED" = "%1$@|sent you a file";
-"MESSAGE_STICKER_SEPARATED" = "%1$@|sent you a %2$@sticker";
+"MESSAGE_STICKER_SEPARATED" = "%1$@|sent you a %2$@ sticker";
 "MESSAGE_AUDIO_SEPARATED" = "%1$@|sent you a voice message";
 "MESSAGE_CONTACT_SEPARATED" = "%1$@|shared a contact with you";
 "MESSAGE_GEO_SEPARATED" = "%1$@|sent you a map";
@@ -116,13 +116,13 @@
 "MESSAGE_PHOTOS_SEPARATED" = "%1$@|sent you %2$@ photos";
 "MESSAGES_SEPARATED" = "%1$@|sent you %2$@ messages";
 
-"CHANNEL_MESSAGE_TEXT_SEPARATED" = "%1$@| %2$@";
+"CHANNEL_MESSAGE_TEXT_SEPARATED" = "%1$@|%2$@";
 "CHANNEL_MESSAGE_NOTEXT_SEPARATED" = "%1$@|posted a message";
 "CHANNEL_MESSAGE_PHOTO_SEPARATED" = "%1$@|posted a photo";
 "CHANNEL_MESSAGE_VIDEO_SEPARATED" = "%1$@|posted a video";
 "CHANNEL_MESSAGE_ROUND_SEPARATED" = "%1$@|posted a video message";
 "CHANNEL_MESSAGE_DOC_SEPARATED" = "%1$@|posted a file";
-"CHANNEL_MESSAGE_STICKER_SEPARATED" = "%1$@|posted a %2$@sticker";
+"CHANNEL_MESSAGE_STICKER_SEPARATED" = "%1$@|posted a %2$@ sticker";
 "CHANNEL_MESSAGE_AUDIO_SEPARATED" = "%1$@|posted a voice message";
 "CHANNEL_MESSAGE_CONTACT_SEPARATED" = "%1$@|posted a contact";
 "CHANNEL_MESSAGE_GEO_SEPARATED" = "%1$@|posted a map";
@@ -137,10 +137,10 @@
 "CHAT_MESSAGE_TEXT_SEPARATED" = "%2$@|%1$@:%3$@";
 "CHAT_MESSAGE_NOTEXT_SEPARATED" = "%2$@|%1$@ sent a message to the group";
 "CHAT_MESSAGE_PHOTO_SEPARATED" = "%2$@|%1$@ sent a photo";
-"CHAT_MESSAGE_VIDEO_SEPARATED" = "%2$@|%1$@ sent avideo ";
+"CHAT_MESSAGE_VIDEO_SEPARATED" = "%2$@|%1$@ sent a video ";
 "CHAT_MESSAGE_ROUND_SEPARATED" = "%2$@|%1$@ sent a video message";
 "CHAT_MESSAGE_DOC_SEPARATED" = "%2$@|%1$@ sent a file";
-"CHAT_MESSAGE_STICKER_SEPARATED" = "%2$@|%1$@ sent a %3$@sticker";
+"CHAT_MESSAGE_STICKER_SEPARATED" = "%2$@|%1$@ sent a %3$@ sticker";
 "CHAT_MESSAGE_AUDIO_SEPARATED" = "%2$@|%1$@ sent a voice message";
 "CHAT_MESSAGE_CONTACT_SEPARATED" = "%2$@|%1$@ shared a contact";
 "CHAT_MESSAGE_GEO_SEPARATED" = "%2$@|%1$@ sent a map";
@@ -169,12 +169,12 @@
 "PINNED_VIDEO_SEPARATED" = "%1$@|pinned a video";
 "PINNED_ROUND_SEPARATED" = "%1$@|pinned a video message";
 "PINNED_DOC_SEPARATED" = "%1$@|pinned a file";
-"PINNED_STICKER_SEPARATED" = "%1$@|pinned a %2$@sticker";
+"PINNED_STICKER_SEPARATED" = "%1$@|pinned a %2$@ sticker";
 "PINNED_AUDIO_SEPARATED" = "%1$@|pinned a voice message";
 "PINNED_CONTACT_SEPARATED" = "%1$@|pinned a contact";
 "PINNED_GEO_SEPARATED" = "%1$@|pinned a map";
 "PINNED_GEOLIVE_SEPARATED" = "%1$@|pinned a live location";
-"PINNED_POLL_SEPARATED" = "|%1$@|pinned a poll";
+"PINNED_POLL_SEPARATED" = "%1$@|pinned a poll";
 "PINNED_GAME_SEPARATED" = "%1$@|pinned a game";
 "PINNED_INVOICE_SEPARATED" = "%1$@|pinned an invoice";
 "PINNED_GIF_SEPARATED" = "%1$@|pinned a GIF";
@@ -3093,7 +3093,7 @@ Unused sets are archived when you add more.";
 
 "DialogList.AdLabel" = "Proxy Sponsor";
 "DialogList.AdNoticeAlert" = "This channel is shown by your proxy server. To remove this channel from your chats list, disable the proxy in Telegram Settings.";
-"SocksProxySetup.AdNoticeHelp" = "This proxy may display a sponsored channel in your chat list. This doesn't reveal any of your Telegram traffic.";
+"SocksProxySetup.AdNoticeHelp" = "This proxy may display a sponsored channel in your chat list. This doesn't reveal your Telegram traffic.";
 
 "SocksProxySetup.ShareProxyList" = "Share Proxy List";
 

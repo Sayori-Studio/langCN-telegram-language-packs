@@ -2452,7 +2452,7 @@
 "Chat.Poll.Tooltip.Votes_two" = "%d votes";
 "Chat.Poll.Tooltip.Votes_few" = "%d votes";
 "Chat.Poll.Tooltip.Votes_many" = "%d votes";
-"CChat.Poll.Tooltip.Votes_other" = "%d votes";
+"Chat.Poll.Tooltip.Votes_other" = "%d votes";
 
 "Chat.Poll.TotalVotesEmpty" = "No votes yet";
 "Chat.Poll.TotalVotesResultEmpty" = "No votes";
@@ -2514,6 +2514,6 @@
 "CancelResetAccount.TextSMS" = "Somebody with access to your phone number **%@** has requested to delete your Telegram account and reset your 2-Step Verification password.\n\nIf it wasn't you, please enter the code we've just sent you via SMS to your number.";
 "CancelResetAccount.Success" = "The deletion process was cancelled for your account %@.";
 
-/* "_NS:103.title" = "Edit"; */
-/* "_NS:167.title" = "Window"; */
-/* "_NS:81.title" = "View"; */
+"_NS:103.title" = "Edit";
+"_NS:167.title" = "Window";
+"_NS:81.title" = "View";
