@@ -2622,14 +2622,18 @@ Unused sets are archived when you add more.";
 "Conversation.RestrictedTextTimed" = "The admins of this group have restricted you from writing messages until %@.";
 "Conversation.RestrictedText" = "The admins of this group have restricted you from writing messages.";
 
+
 "Conversation.RestrictedInlineTimed" = "The admins of this group have restricted you from posting inline content here until %@.";
 "Conversation.RestrictedInline" = "The admins of this group have restricted you from posting inline content here.";
+
 
 "Conversation.RestrictedMediaTimed" = "The admins of this group have restricted you from posting media content here until %@.";
 "Conversation.RestrictedMedia" = "The admins of this group have restricted you from posting media content here.";
 
+
 "Conversation.RestrictedStickersTimed" = "The admins of this group have restricted you from posting stickers here until %@.";
 "Conversation.RestrictedStickers" = "The admins of this group have restricted you from sending stickers.";
+
 
 "ChatSettings.ConnectionType.Title" = "CONNECTION TYPE";
 "ChatSettings.ConnectionType.UseProxy" = "Use Proxy";
@@ -3598,6 +3602,8 @@ Unused sets are archived when you add more.";
 
 
 
+
+
 "AuthSessions.IncompleteAttempts" = "INCOMPLETE LOGIN ATTEMPTS";
 "AuthSessions.IncompleteAttemptsInfo" = "These devices have no access to your account. The code was entered correctly, but no correct password was given.";
 
@@ -3776,6 +3782,26 @@ Unused sets are archived when you add more.";
 
 "Conversation.UnsupportedMediaPlaceholder" = "This message is not supported on your version of Telegram. Please update to the latest version.";
 "Conversation.UpdateTelegram" = "UPDATE TELEGRAM";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
