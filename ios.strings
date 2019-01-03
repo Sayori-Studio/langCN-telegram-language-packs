@@ -322,7 +322,7 @@
 "Login.WillCallYou" = "Telegram will call you in %@";
 "Login.CallRequestState2" = "Requesting a call from Telegram...";
 "Login.CallRequestState3" = "Telegram dialed your number\n[Didn't get the code?]";
-"Login.EmailNotConfiguredError" = "Please set up an email account.";
+"Login.EmailNotConfiguredError" = "An email account is required so that you can send us details about the error.\n\nPlease go to your device‘s settings > Passwords & Accounts > Add account and set up an email account.";
 "Login.EmailCodeSubject" = "%@, no code";
 "Login.EmailCodeBody" = "My phone number is:\n%@\nI can't get an activation code for Telegram.";
 "Login.UnknownError" = "An error occurred. Please try again later";
