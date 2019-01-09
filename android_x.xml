@@ -2204,6 +2204,10 @@
   <string name="format_edited">[edited]: %1$s</string>
   <string name="format_editedVisible">%1$s</string>
 
+  <string name="ActionMute">Mute</string>
+  <string name="ActionMutePerson">Mute %1$s</string>
+  <string name="ActionMuteEveryone">Mute all</string>
+
   <string name="ActionMuteHours_one">Mute for %1$sh</string>
   <string name="ActionMuteHours_other">Mute for %1$sh</string>
 
@@ -2211,7 +2215,7 @@
   <string name="ActionMutePersonHours_other">Mute %2$s for %1$sh</string>
 
   <string name="ActionMuteAll_one">Mute all for %1$sh</string>
-  <string name="ActionMuteAll_other">Mute all %1$sh</string>
+  <string name="ActionMuteAll_other">Mute all for %1$sh</string>
 
   <string name="MessagePreviewDefault">Default</string>
   <string name="MessagePreviewEnabled">Enabled</string>
@@ -2231,10 +2235,10 @@
   <string name="AccurateToMeters_two">Accurate to %1$s meters</string>
   <string name="AccurateToMeters_few">Accurate to %1$s meters</string>
   <string name="AccurateToMeters_many">Accurate to %1$s meters</string>
-  <string name="ActionMuteAll_zero">Mute all %1$sh</string>
-  <string name="ActionMuteAll_two">Mute all %1$sh</string>
-  <string name="ActionMuteAll_few">Mute all %1$sh</string>
-  <string name="ActionMuteAll_many">Mute all %1$sh</string>
+  <string name="ActionMuteAll_zero">Mute all for %1$sh</string>
+  <string name="ActionMuteAll_two">Mute all for %1$sh</string>
+  <string name="ActionMuteAll_few">Mute all for %1$sh</string>
+  <string name="ActionMuteAll_many">Mute all for %1$sh</string>
   <string name="ActionMuteHours_zero">Mute for %1$sh</string>
   <string name="ActionMuteHours_two">Mute for %1$sh</string>
   <string name="ActionMuteHours_few">Mute for %1$sh</string>
