@@ -1146,7 +1146,10 @@
 "Channel.EditAdmin.Permission.AddNewAdmins" = "Add New Admins";
 "Channel.EditAdmin.Permission.PostMessages" = "Post Messages";
 "Channel.EditAdmin.Permission.EditMessages" = "Edit Messages";
-"Channel.EditAdmin.Permission.InviteUsers" = "Invite Users";
+"Channel.EditAdmin.PermissionInviteSubscribers" = "Add Subscribers";
+"Channel.EditAdmin.PermissionInviteMembers" = "Add Members";
+"Channel.EditAdmin.PermissionInviteViaLink" = "Invite Users via Link";
+
 
 "Channel.Persmission.Denied.SendMessages.Until" = "The admins of this group have restricted you from writing here until %@.";
 "Channel.Persmission.Denied.SendMessages.Forever" = "The admins of this group have restricted you from writing here";
@@ -2660,6 +2663,23 @@
 "Chat.UndoManager.ChatsHistoryCleared_few" = "%d Chat History Cleared";
 "Chat.UndoManager.ChatsHistoryCleared_many" = "%d Chat History Cleared";
 "Chat.UndoManager.ChatsHistoryCleared_other" = "%d Chat History Cleared";
+
+
+"Chat.UndoManager.ChatLeft_countable" = "%d";
+"Chat.UndoManager.ChatLeft_zero" = "%d Chats Left";
+"Chat.UndoManager.ChatLeft_one" = "Chat Left";
+"Chat.UndoManager.ChatLeft_two" = "%d Chats Left";
+"Chat.UndoManager.ChatLeft_few" = "%d Chats Left";
+"Chat.UndoManager.ChatLeft_many" = "%d Chats Left";
+"Chat.UndoManager.ChatLeft_other" = "%d Chats Left";
+
+"Chat.UndoManager.ChannelLeft_countable" = "%d";
+"Chat.UndoManager.ChannelLeft_zero" = "%d Channels Left";
+"Chat.UndoManager.ChannelLeft_one" = "Channel Left";
+"Chat.UndoManager.ChannelLeft_two" = "%d Channels Left";
+"Chat.UndoManager.ChannelLeft_few" = "%d Channels Left";
+"Chat.UndoManager.ChannelLeft_many" = "%d Channels Left";
+"Chat.UndoManager.ChannelLeft_other" = "%d Channels Left";
 
 
 "Gallery.SaveGif" = "Save GIF";
