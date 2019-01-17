@@ -237,7 +237,8 @@
 "Chat.Input.Mute" = "Mute";
 "Chat.Input.Unmute" = "Unmute";
 "Chat.Input.Return" = "Return to the group";
-"Chat.Input.SecretChat.WaitingToOnline" = "Waiting for the other user to come online...";
+"Chat.Input.SecretChat.WaitingToUserOnline" = "Waiting for the %@ to get online...";
+
 "Chat.Input.Delete" = "Delete and exit";
 "Chat.Input.Join" = "Join";
 "Chat.Input.Unblock" = "Unblock";
@@ -666,10 +667,10 @@
 "Account.Confirm.GoToFaq" = "Open FAQ";
 
 "Chat.SecretChat.EmptyHeader" = "Secret chats:";
-"Chat.SecretChat.1Feature" = " - Use end-to-end encryption";
-"Chat.SecretChat.2Feature" = " - Leave no trace on our servers";
-"Chat.SecretChat.3Feature" = " - Have a self-destruct timer";
-"Chat.SecretChat.4Feature" = " - Do not allow forwarding";
+"Chat.SecretChat.1Feature" = "• Use end-to-end encryption";
+"Chat.SecretChat.2Feature" = "• Leave no trace on our servers";
+"Chat.SecretChat.3Feature" = "• Have a self-destruct timer";
+"Chat.SecretChat.4Feature" = "• Do not allow forwarding";
 
 
 "TextView.Transform.Bold" = "Bold";
