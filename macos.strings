@@ -202,7 +202,7 @@
 "Modal.CopyLink" = "Copy Link";
 "Modal.Cancel" = "Cancel";
 "Modal.OK" = "OK";
-
+"Modal.Set" = "Set";
 "QuickLook.Preview" = "Preview";
 
 
@@ -2685,6 +2685,9 @@
 
 "Gallery.SaveGif" = "Save GIF";
 
+"WallpaperPreview.Plain" = "Plain";
+"WallpaperPreview.Blurred" = "Blurred";
+"WallpaperPreview.Header" = "Wallpaper Preview";
 /*  */
 /* "_NS:103.title" = "Edit"; */
 /* "_NS:167.title" = "Window"; */
