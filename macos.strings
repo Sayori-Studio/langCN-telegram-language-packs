@@ -87,9 +87,13 @@
 "PeerInfo.SetGroupPhoto" = "Set Group Photo";
 "PeerInfo.AddMember" = "Add Members";
 "PeerInfo.DeleteAndExit" = "Delete and Exit";
-
+"PeerInfo.DeleteGroup" = "Delete Group";
 "PeerInfo.Permissions" = "Permissions";
 "PeerInfo.Administrators" = "Administrators";
+
+"PeerInfo.Confirm.DeleteGroupConfirmation" = "Wait! Deleting this group will remove all members and all messages will be lost. Delete the group anyway?";
+
+
 
 "PeerInfo.LeaveGroup" = "Leave Group";
 
@@ -105,6 +109,9 @@
 "Confirm.DeleteAdminedChannel" = "Wait! Deleting this channel will remove all of its members and all of its messages will be lost forever.\n\nAre you sure you want to continue?";
 "Confirm.DeleteChatUser" = "Are you sure you want to delete all message history?";
 "Confirm.LeaveGroup" = "Are you sure you want to leave this group?";
+
+
+"PeerInfo.Confirm.DeleteUserChat" = "Are you sure you want to delete chat?";
 
 "PeerMedia.SharedMedia" = "Shared Media";
 "EmptyPeer.Description" = "Select a chat to start messaging";
@@ -743,6 +750,11 @@
 
 
 "PeerInfo.Confirm.Add" = "Add";
+"peerInfo.Confirm.Leave" = "Leave";
+"PeerInfo.Confirm.Clear" = "Clear";
+
+"peerInfo.Confirm.ClearHistory.User" = "This will delete all messages and media in this chat from your Telegram cloud. Your chat partner will still have them.";
+"peerInfo.Confirm.ClearHistory.Group" = "This will delete all messages and media in this chat from your Telegram cloud. Other members of the group will still have them.";
 
 "PeerInfo.Confirm.AddMember" = "Add \"%@\" to the group?";
 "PeerInfo.Confirm.RemovePeer" = "Remove \"%@\" from group?";
@@ -796,6 +808,8 @@
 "PeerInfo.DeleteSecretChat" = "Delete Secret Chat";
 
 "ChannelMembers.AddMembers" = "Add Members";
+"ChannelMembers.AddSubscribers" = "Add Subscribers";
+
 "ChannelMembers.InviteLink" = "Invite via Link";
 "ChannelMembers.MembersListDesc" = "Only channel admins can see this list.";
 "Telegram.ChannelMembersViewController" = "Channel Members";
@@ -1210,6 +1224,7 @@
 "EventLog.Service.Demote.SendMessages" = "Send Messages";
 "EventLog.Service.Demote.SendMedia" = "Send Media";
 "EventLog.Service.Demote.SendStickers" = "Send Stickers";
+"EventLog.Service.Demote.ChangeInfo" = "Change Info";
 "EventLog.Service.Demote.SendGifs" = "Send GIFs";
 "EventLog.Service.Demote.PostPolls" = "Post Polls";
 "EventLog.Service.Demote.AddMembers" = "Add Members";
@@ -1306,6 +1321,9 @@
 "Channel.BlockUser.CanEmbedLinks" = "Can Embed Links";
 "Channel.BlockUser.BlockFor" = "Block For";
 "Channel.Blacklist.SelectNewUserTitle" = "Members";
+
+"Channel.Exception.DisabledOption.Group" = "This option is disabled in group's Permissions for all members.";
+"Channel.Exception.DisabledOption.Channel" = "This option is disabled in channel Permissions for all members.";
 
 "Channel.Admins.PromotedBy" = "promoted by %@";
 "Channel.Admins.AddAdminError" = "Sorry, you're not allowed to promote this user to become an admin.";
@@ -2693,4 +2711,7 @@
 /* "_NS:167.title" = "Window"; */
 /* "_NS:81.title" = "View"; */
 
+
+"Channel.ErrorAddBlocked" = "Sorry, you can't add this user to channels.";
+"Channel.ErrorAddTooMuch" = "Sorry, you can only add the first 200 members to a channel. Note that an unlimited number of people may join via the channel's link.";
 
