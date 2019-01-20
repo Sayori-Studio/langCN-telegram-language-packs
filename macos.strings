@@ -1782,7 +1782,7 @@
 "Chat.Confirm.ReportSpam.Group" = "Report Spam and leave group?";
 
 "Appearance.CustomBackground" = "Custom Background";
-"Appearance.CustomBackground.FileError" = "The file size must not exceed 10MB and the image dimensions must not exceed 500x500px.";
+"Appearance.CustomBackground.FileError" = "The file size must not exceed 2MB and the image dimensions must not exceed 500x500px.";
 
 "CrashOnLaunch.OK" = "Log out";
 "CrashOnLaunch.Cancel" = "Cancel";
@@ -2714,4 +2714,6 @@
 
 "Channel.ErrorAddBlocked" = "Sorry, you can't add this user to channels.";
 "Channel.ErrorAddTooMuch" = "Sorry, you can only add the first 200 members to a channel. Note that an unlimited number of people may join via the channel's link.";
+
+"WallpaperPreview.DoesntExists" = "Sorry, this background doesn't seem to exist.";
 
