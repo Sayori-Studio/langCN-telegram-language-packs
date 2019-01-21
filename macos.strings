@@ -1196,6 +1196,9 @@
 "Channel.Admin.AdminAccess" = "This Admin will be able to add new admins with the same (or more limited) permissions than he/she has.";
 "Channel.Admin.AdminRestricted" = "This admin will not be able to add new admins.";
 
+
+"Channel.Admin.CantEdit" = "You are not allowed to edit the rights of this admin.";
+
 "Channel.Admin.WhatCanAdminDo" = "WHAT CAN THIS ADMIN DO?";
 
 "Channel.EventLog.What" = "What Is This?";
@@ -2705,7 +2708,7 @@
 
 "WallpaperPreview.Plain" = "Plain";
 "WallpaperPreview.Blurred" = "Blurred";
-"WallpaperPreview.Header" = "Wallpaper Preview";
+"WallpaperPreview.Header" = "Background Preview";
 /*  */
 /* "_NS:103.title" = "Edit"; */
 /* "_NS:167.title" = "Window"; */
@@ -2717,3 +2720,4 @@
 
 "WallpaperPreview.DoesntExists" = "Sorry, this background doesn't seem to exist.";
 
+"Chat.WP.BackgroundTitle" = "Chat Background";
