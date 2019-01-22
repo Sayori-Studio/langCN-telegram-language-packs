@@ -706,7 +706,7 @@
 "PeerInfo.MembersHeader_other" = "%d MEMBERS";
 
 "PeerInfo.InviteLink" = "Invite Link";
-"PeerInfo.BlackList" = "Blacklist";
+"PeerInfo.BlackList" = "Removed Users";
 "PeerInfo.GroupType" = "Group Type";
 "PeerInfo.ChannelType" = "Channel Type";
 "PeerInfo.GroupType.Public" = "Public";
@@ -754,6 +754,8 @@
 "PeerInfo.Confirm.Clear" = "Clear";
 
 "peerInfo.Confirm.ClearHistory.User" = "This will delete all messages and media in this chat from your Telegram cloud. Your chat partner will still have them.";
+"peerInfo.Confirm.ClearHistory.SavedMesssages" = "This will delete all messages and media in this chat from your Telegram cloud.";
+
 "peerInfo.Confirm.ClearHistory.Group" = "This will delete all messages and media in this chat from your Telegram cloud. Other members of the group will still have them.";
 
 "PeerInfo.Confirm.AddMember" = "Add \"%@\" to the group?";
@@ -1307,6 +1309,9 @@
 "ChannelBlacklist.Blocked" = "BLOCKED";
 
 "Channel.Blacklist.RemoveUser" = "Remove User";
+"Channel.Blacklist.Context.AddToGroup" = "Add To Group";
+"Channel.Blacklist.Context.Remove" = "Remove";
+
 "Channel.Blacklist.DescChannel" = "Users removed from the channel by admins cannot rejoin via invite links.";
 "Channel.Blacklist.DescGroup" = "Users removed from the group by admins cannot rejoin via invite links.";
 
@@ -2675,9 +2680,6 @@
 "Chat.UndoManager.ChatsDeleted_many" = "%d Chats Deleted";
 "Chat.UndoManager.ChatsDeleted_other" = "%d Chats Deleted";
 
-
-
-
 "Chat.UndoManager.ChatsHistoryCleared_countable" = "%d";
 "Chat.UndoManager.ChatsHistoryCleared_zero" = "%d Chat History Cleared";
 "Chat.UndoManager.ChatsHistoryCleared_one" = "Chat History Cleared";
@@ -2703,6 +2705,15 @@
 "Chat.UndoManager.ChannelLeft_many" = "%d Channels Left";
 "Chat.UndoManager.ChannelLeft_other" = "%d Channels Left";
 
+"Chat.UndoManager.ChannelDeleted_countable" = "%d";
+"Chat.UndoManager.ChannelDeleted_zero" = "%d Channels Deleted";
+"Chat.UndoManager.ChannelDeleted_one" = "Channel Deleted";
+"Chat.UndoManager.ChannelDeleted_two" = "%d Channels Deleted";
+"Chat.UndoManager.ChannelDeleted_few" = "%d Channels Deleted";
+"Chat.UndoManager.ChannelDeleted_many" = "%d Channels Deleted";
+"Chat.UndoManager.ChannelDeleted_other" = "%d Channels Deleted";
+
+
 
 "Gallery.SaveGif" = "Save GIF";
 
@@ -2710,9 +2721,9 @@
 "WallpaperPreview.Blurred" = "Blurred";
 "WallpaperPreview.Header" = "Background Preview";
 /*  */
-/* "_NS:103.title" = "Edit"; */
-/* "_NS:167.title" = "Window"; */
-/* "_NS:81.title" = "View"; */
+"_NS:103.title" = "Edit";
+"_NS:167.title" = "Window";
+"_NS:81.title" = "View";
 
 
 "Channel.ErrorAddBlocked" = "Sorry, you can't add this user to channels.";
