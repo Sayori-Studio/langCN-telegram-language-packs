@@ -2717,7 +2717,6 @@
 
 "Gallery.SaveGif" = "Save GIF";
 
-"WallpaperPreview.Plain" = "Plain";
 "WallpaperPreview.Blurred" = "Blurred";
 "WallpaperPreview.Header" = "Background Preview";
 /*  */
@@ -2730,5 +2729,9 @@
 "Channel.ErrorAddTooMuch" = "Sorry, you can only add the first 200 members to a channel. Note that an unlimited number of people may join via the channel's link.";
 
 "WallpaperPreview.DoesntExists" = "Sorry, this background doesn't seem to exist.";
-
+"WallpaperPreview.Apply" = "Apply";
 "Chat.WP.BackgroundTitle" = "Chat Background";
+
+"Chat.WP.SelectFromFile" = "Select From File";
+"Chat.WP.FirstMessage" = "Pinch, swipe or double tap to select a custom area for the background.";
+"Chat.WP.SecondMessage" = "Wow, macos client is sick.";
