@@ -2720,9 +2720,9 @@
 "WallpaperPreview.Blurred" = "Blurred";
 "WallpaperPreview.Header" = "Background Preview";
 /*  */
-"_NS:103.title" = "Edit";
-"_NS:167.title" = "Window";
-"_NS:81.title" = "View";
+/* "_NS:103.title" = "Edit"; */
+/* "_NS:167.title" = "Window"; */
+/* "_NS:81.title" = "View"; */
 
 
 "Channel.ErrorAddBlocked" = "Sorry, you can't add this user to channels.";
@@ -2734,4 +2734,12 @@
 
 "Chat.WP.SelectFromFile" = "Select From File";
 "Chat.WP.FirstMessage" = "Pinch, swipe or double tap to select a custom area for the background.";
-"Chat.WP.SecondMessage" = "Wow, macos client is sick.";
+"Chat.WP.SecondMessage" = "Pinch me, I'm dreaming!";
+
+"Chat.WP.Color.FirstMessage" = "Press Apply to set the background";
+"Chat.WP.Color.SecondMessage" = "Enjoy the view";
+
+"Chat.WP.Pattern.None" = "None";
+"Chat.WP.Pattern" = "Pattern";
+"Chat.WP.Color" = "Color";
+"Chat.WP.Intensity" = "Pattern Intensity";
