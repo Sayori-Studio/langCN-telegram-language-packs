@@ -2743,3 +2743,15 @@
 "Chat.WP.Pattern" = "Pattern";
 "Chat.WP.Color" = "Color";
 "Chat.WP.Intensity" = "Pattern Intensity";
+
+
+
+"Update.UpdateTelegram" = "Update Telegram";
+"AppUpdate.CheckForUpdates" = "Check for Updates";
+"AppUpdate.DownloadUpdate" = "Download Update";
+"AppUpdate.RetrievingInfo" = "Retrieving Info...";
+"AppUpdate.Downloading" = "Downloading...";
+"AppUpdate.Unarchiving" = "Unarchiving...";
+"AppUpdate.Title" = "Telegram Update";
+"AppUpdate.Uptodate" = "you have newest version";
+"AppUpdate.NewestAvailable" = "Newest version available please update the app to get latest features and improvements.";
