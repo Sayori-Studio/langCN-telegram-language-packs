@@ -2746,12 +2746,17 @@
 
 
 
+"AccountViewController.Update" = "Update";
+"AccountViewController.Desc.Updated" = "updated";
+
 "Update.UpdateTelegram" = "Update Telegram";
 "AppUpdate.CheckForUpdates" = "Check for Updates";
 "AppUpdate.DownloadUpdate" = "Download Update";
-"AppUpdate.RetrievingInfo" = "Retrieving Info...";
+"AppUpdate.RetrievingInfo" = "Retrieving Information...";
 "AppUpdate.Downloading" = "Downloading...";
 "AppUpdate.Unarchiving" = "Unarchiving...";
-"AppUpdate.Title" = "Telegram Update";
-"AppUpdate.Uptodate" = "you have newest version";
-"AppUpdate.NewestAvailable" = "Newest version available please update the app to get latest features and improvements.";
+"AppUpdate.Title" = "Updates";
+"AppUpdate.Uptodate" = "You have latest version of Telegram.";
+"AppUpdate.NewestAvailable" = "Please update the app to get latest features and improvements.";
+"AppUpdate.Title.New" = "NEW VERSION (your version: %@)";
+"AppUpdate.Title.Previous" = "PREVIOUS VERSIONS";
