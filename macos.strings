@@ -2756,7 +2756,7 @@
 "AppUpdate.Downloading" = "Downloading...";
 "AppUpdate.Unarchiving" = "Unarchiving...";
 "AppUpdate.Title" = "Updates";
-"AppUpdate.Uptodate" = "You have latest version of Telegram.";
-"AppUpdate.NewestAvailable" = "Please update the app to get latest features and improvements.";
+"AppUpdate.Uptodate" = "You have the latest version of Telegram.";
+"AppUpdate.NewestAvailable" = "Please update the app to get the latest features and improvements.";
 "AppUpdate.Title.New" = "NEW VERSION (your version: %@)";
 "AppUpdate.Title.Previous" = "PREVIOUS VERSIONS";
