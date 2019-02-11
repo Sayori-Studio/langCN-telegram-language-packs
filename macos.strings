@@ -2748,6 +2748,7 @@
 
 "AccountViewController.Update" = "Update";
 "AccountViewController.Desc.Updated" = "updated";
+"AccountViewController.Desc.Failed" = "failed";
 
 "Update.UpdateTelegram" = "Update Telegram";
 "AppUpdate.CheckForUpdates" = "Check for Updates";
@@ -2765,7 +2766,8 @@
 "DataAndStorage.Autoplay.Header" = "AUTO-PLAY MEDIA";
 "DataAndStorage.Autoplay.GIFs" = "GIFs";
 "DataAndStorage.Autoplay.Videos" = "Videos";
-"DataAndStorage.Autoplay.SoundOnHover" = "Sound on Hover";
+"DataAndStorage.Autoplay.SoundOnHover" = "Sound on over";
+"DataAndStorage.Autoplay.SoundOnHover.Desc" = "Sound will start playing when you move your cursor over a video.";
 
 "DataAndStorage.Category.PreloadLargeVideos" = "Preload Larger Videos";
 "DataAndStorage.Category.PreloadLargeVideosDesc" = "Preload first few seconds (1-2 MB) of videos large than %@ MB for instant playback.";
