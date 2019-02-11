@@ -2760,3 +2760,12 @@
 "AppUpdate.NewestAvailable" = "Please update the app to get the latest features and improvements.";
 "AppUpdate.Title.New" = "NEW VERSION (your version: %@)";
 "AppUpdate.Title.Previous" = "PREVIOUS VERSIONS";
+
+
+"DataAndStorage.Autoplay.Header" = "AUTO-PLAY MEDIA";
+"DataAndStorage.Autoplay.GIFs" = "GIFs";
+"DataAndStorage.Autoplay.Videos" = "Videos";
+"DataAndStorage.Autoplay.SoundOnHover" = "Sound on Hover";
+
+"DataAndStorage.Category.PreloadLargeVideos" = "Preload Larger Videos";
+"DataAndStorage.Category.PreloadLargeVideosDesc" = "Preload first few seconds (1-2 MB) of videos large than %@ MB for instant playback.";
