@@ -2766,7 +2766,7 @@
 "DataAndStorage.Autoplay.Header" = "AUTO-PLAY MEDIA";
 "DataAndStorage.Autoplay.GIFs" = "GIFs";
 "DataAndStorage.Autoplay.Videos" = "Videos";
-"DataAndStorage.Autoplay.SoundOnHover" = "Sound on Over";
+"DataAndStorage.Autoplay.SoundOnHover" = "Sound on Hover";
 "DataAndStorage.Autoplay.SoundOnHover.Desc" = "Sound will start playing when you move your cursor over a video.";
 
 "DataAndStorage.Category.PreloadLargeVideos" = "Preload Larger Videos";
