@@ -885,6 +885,15 @@
 "Alert.SendError.Delete" = "Delete";
 "Alert.SendError.Ignore" = "Ignore";
 
+
+"Alert.SendError.ResendItems_countable" = "%d";
+"Alert.SendError.ResendItems_zero" = "Resend %d messages";
+"Alert.SendError.ResendItems_one" = "Resend %d message";
+"Alert.SendError.ResendItems_two" = "Resend %d messages";
+"Alert.SendError.ResendItems_few" = "Resend %d messages";
+"Alert.SendError.ResendItems_many" = "Resend %d messages";
+"Alert.SendError.ResendItems_other" = "Resend %d messages";
+
 "GeneralSettings.EnableSidebar" = "Sidebar";
 "Telegram.RecentSessionsController" = "Active Sessions";
 "RecentSessions.Confirm.TerminateOthers" = "Are you sure you want to terminate all other sessions?";
@@ -2771,3 +2780,8 @@
 
 "DataAndStorage.Category.PreloadLargeVideos" = "Preload Larger Videos";
 "DataAndStorage.Category.PreloadLargeVideosDesc" = "Preload first few seconds (1-2 MB) of videos large than %@ MB for instant playback.";
+
+
+
+"Confirm.Header.PermissionInlineBotContact" = "Share Your Phone Number?";
+"Confirm.Desc.PermissionInlineBotContact" = "The bot will know your phone number. This can be useful for integration with other services.";
