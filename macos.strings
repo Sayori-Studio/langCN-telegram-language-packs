@@ -2785,3 +2785,16 @@
 
 "Confirm.Header.PermissionInlineBotContact" = "Share Your Phone Number?";
 "Confirm.Desc.PermissionInlineBotContact" = "The bot will know your phone number. This can be useful for integration with other services.";
+
+
+"AutoDownloadSettings.OnForAll" = "On for all chats";
+"AutoDownloadSettings.OnFor" = "On for %@";
+"AutoDownloadSettings.TypePrivateChats" = "Private Chats";
+"AutoDownloadSettings.TypeGroupChats" = "Groups";
+"AutoDownloadSettings.TypeChannels" = "Channels";
+"AutoDownloadSettings.UpToForAll" = "Up to %@ for all chats";
+"AutoDownloadSettings.UpToFor" = "Up to %@ for %@";
+"AutoDownloadSettings.OffForAll" = "Off for all chats";
+"AutoDownloadSettings.Delimeter" = ", ";
+"AutoDownloadSettings.LastDelimeter" = " and ";
+
