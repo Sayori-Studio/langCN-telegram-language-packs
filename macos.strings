@@ -2817,3 +2817,12 @@
 
 
 "Chat.Video.Processing" = "processing...";
+
+"CallSettings.Title" = "Call Settings";
+"CallSettings.Output.Title" = "SOUND";
+"CallSettings.Output.Text" = "Output device";
+"CallSettings.Input.Title" = "MICROPHONE";
+"CallSettings.Input.Text" = "Input device";
+"CallSettings.OtherSettings.Title" = "OTHER SETTINGS";
+"CallSettings.MuteSound" = "Mute other sounds during calls";
+"CallSettings.OpenSystemPreferences" = "Open system preferences";
