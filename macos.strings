@@ -2731,9 +2731,7 @@
 "WallpaperPreview.Blurred" = "Blurred";
 "WallpaperPreview.Header" = "Background Preview";
 /*  */
-/* "_NS:103.title" = "Edit"; */
-/* "_NS:167.title" = "Window"; */
-/* "_NS:81.title" = "View"; */
+
 
 
 "Channel.ErrorAddBlocked" = "Sorry, you can't add this user to channels.";
@@ -2831,3 +2829,10 @@
 
 
 "Telegram.ChannelStatisticsController" = "Channel Stats";
+
+
+
+
+"_NS:103.title" = "Edit";
+"_NS:167.title" = "Window";
+"_NS:81.title" = "View";
