@@ -1047,6 +1047,7 @@
 "Call.StatusFailed" = "Call Failed";
 "Call.StatusBusy" = "Busy";
 "Call.StatusCalling" = "is calling you...";
+"Call.StatusCallingAccount" = "is calling → %@...";
 
 
 
@@ -2135,6 +2136,7 @@
 "EditAccount.Username" = "Username";
 "EditAccount.ChangeNumber" = "Change Number";
 "EditAccount.NameDesc" = "Enter your name and add a profile photo.";
+"EditAccount.AddAccount" = "Add Account";
 
 
 "Chanel.EventFilter.AllAdmins" = "All Admins";
@@ -2731,7 +2733,9 @@
 "WallpaperPreview.Blurred" = "Blurred";
 "WallpaperPreview.Header" = "Background Preview";
 /*  */
-
+/* "_NS:103.title" = "Edit"; */
+/* "_NS:167.title" = "Window"; */
+/* "_NS:81.title" = "View"; */
 
 
 "Channel.ErrorAddBlocked" = "Sorry, you can't add this user to channels.";
@@ -2831,8 +2835,30 @@
 "Telegram.ChannelStatisticsController" = "Channel Stats";
 
 
+"AccountSettings.AddAccount" = "Add Account";
+"AccountSettings.DeleteAccount" = "Delete Account";
 
 
-"_NS:103.title" = "Edit";
-"_NS:167.title" = "Window";
-"_NS:81.title" = "View";
+"PasscodeController.Install.Title" = "Passcode";
+"PasscodeController.Change.Title" = "Change Passcode";
+"PasscodeController.Disable.Title" = "Disable Passcode";
+
+"PasscodeController.EnterPasscode.Placeholder" = "Enter a passcode";
+"PasscodeController.ReEnterPasscode.Placeholder" = "Re-enter new passcode";
+
+"PasscodeController.Current.Placeholder" = "Enter current passcode";
+
+
+"PasscodeController.Header.Current" = "CURRENT PASSCODE";
+"PasscodeController.Header.New" = "NEW PASSCODE";
+
+"PasscodeController.Text" = "When a local passcode is set, a lock button is appears in quick settings menu. Just hover settings icon in tab bar or use ⌘ + L.\n\nNote: if you forget your local passcode you'll need to log out of Telegram Macos and log in again.";
+
+"PasscodeController.Error.Different" = "passcodes are different";
+"PasscodeController.Error.Current" = "invalid passcode";
+
+
+"Passlock.EnterYourPasscode" = "Enter Your Passcode";
+
+
+"Login.PhoneNumberAlreadyAuthorized" = "This account is already logged in from this app.";
