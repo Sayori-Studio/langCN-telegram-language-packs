@@ -2862,3 +2862,6 @@
 
 
 "Login.PhoneNumberAlreadyAuthorized" = "This account is already logged in from this app.";
+
+
+"InputFormatter.SetLink" = "Set a Link";
