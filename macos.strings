@@ -2864,7 +2864,7 @@
 
 
 "Login.PhoneNumberAlreadyAuthorized" = "This account is already logged in from this app.";
-
+"Login.PhoneNumberAlreadyAuthorized.Switch" = "Switch";
 
 "InputFormatter.Text.Header" = "TEXT";
 "InputFormatter.URL.Header" = "URL";
@@ -2875,3 +2875,9 @@
 "_NS:77.title" = "View";
 "_NS:163.title" = "Window";
 
+
+
+"NotificationSettings.ShowNotificationsFrom" = "SHOW NOTIFICATIONS FROM";
+"NotificationSettings.AllAccounts" = "All Accounts";
+"NotificationSettings.ShowNotificationsFrom.On" = "Turn this off if you want to receive notifications only from your active account.";
+"NotificationSettings.ShowNotificationsFrom.Off" = "Turn this on if you want to receive notifications only from all your accounts.";
