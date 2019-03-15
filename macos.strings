@@ -519,6 +519,9 @@
 "PrivacySettings.LastSeen" = "Last Seen";
 "PrivacySettings.Groups" = "Groups";
 "PrivacySettings.VoiceCalls" = "Voice Calls";
+"PrivacySettings.ProfilePhoto" = "Profile Photo";
+"PrivacySettings.Forwards" = "Forwards";
+
 "PrivacySettings.SecurityHeader" = "SECURITY";
 "PrivacySettings.Passcode" = "Passcode";
 "PrivacySettings.ActiveSessions" = "Active Sessions";
@@ -1014,6 +1017,17 @@
 "PrivacySettingsController.P2p.Never" = "Never";
 "PrivacySettingsController.P2p.Header" = "PEER TO PEER";
 "PrivacySettingsController.P2p.Desc" = "Disabling peer-to-peer will relay all calls through Telegram servers to avoid revealing your IP address, but will slighly decrease audio quality";
+
+
+"PrivacySettingsController.ProfilePhoto.WhoCanSeeMyPhoto" = "WHO CAN SEE MY PROFILE PHOTO";
+"PrivacySettingsController.ProfilePhoto.CustomHelp" = "You can restrict who can see your profile photo with granular precision.";
+"PrivacySettingsController.ProfilePhoto.AlwaysShareWith.Title" = "Always Share With";
+"PrivacySettingsController.ProfilePhoto.NeverShareWith.Title" = "Never Share With";
+
+"PrivacySettingsController.Forwards.WhoCanForward" = "WHO CAN FORWARD MY MESSAGES";
+"PrivacySettingsController.Forwards.CustomHelp" = "You can restrict who can forward your messages with granular precision.";
+"PrivacySettingsController.Forwards.AlwaysAllow.Title" = "Always Allow";
+"PrivacySettingsController.Forwards.NeverAllow.Title" = "Never Allow";
 
 
 "PrivacySettingsController.UserCount_countable" = "%d";
@@ -2894,3 +2908,9 @@
 
 
 "ChatList.EmptyText" = "**You have no conversations yet**\nStart messaging by tapping the pencil button in the top right corner or got to the Contacts section.";
+
+
+"ChatList.Popover.ReadAll" = "Read All";
+
+
+"Chat.Tooltip.HiddenForwardName" = "%@ hid his account.";
