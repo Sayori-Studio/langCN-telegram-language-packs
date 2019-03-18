@@ -2409,6 +2409,12 @@
   <string name="NotificationSyncAccept">Turn on</string>
   <string name="NotificationSyncDecline">No, thanks</string>
 
+  <string name="LaunchOops">Oops! TDLib %1$s (Build %2$s)</string>
+  <string name="LaunchApp">Launch App</string>
+  <string name="LaunchAppGuide">You see this screen because Telegram X has previously failed to launch because of TDLib fatal failure.\n\nThere\'re some steps that might help:\n• Verify you have latest Telegram X version installed\n• Check you have enough disk space available\n• Restart the phone.\n\nIf none of the steps above helped, and issue persists, please:\n\n• Submit report and tdlib_log.txt file to TDLib developers via [@tdlib_bot](https://t.me/tdlib_bot)\n• Wait for response and change log settings below as requested.\n• Press \"Launch App\" to make it crash again.\n• Share tdlib_log.txt below again with the TDLib developers.\n• Once your issue is resolved, don\'t forget to turn of logs, as they will affect overall app performance.\n\nYou may also want to follow [@tgx_android](https://t.me/tgx_android) to get notified when this issue will be resolved or join [@tgandroidtests](https://t.me/tgandroidtests) testing community.</string>
+
+  <!--<string name="BetaPrompt">You are using **beta** version of Telegram X. By continuing using .</string>-->
+
   
   
   
