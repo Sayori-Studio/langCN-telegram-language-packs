@@ -520,7 +520,7 @@
 "PrivacySettings.Groups" = "Groups";
 "PrivacySettings.VoiceCalls" = "Voice Calls";
 "PrivacySettings.ProfilePhoto" = "Profile Photo";
-"PrivacySettings.Forwards" = "Forwards";
+"PrivacySettings.Forwards" = "Forwarded Messages";
 
 "PrivacySettings.SecurityHeader" = "SECURITY";
 "PrivacySettings.Passcode" = "Passcode";
@@ -1771,6 +1771,7 @@
 "Chat.Message.DeleteForMeAndPerson" = "Delete for me and %@";
 "Chat.Message.DeleteForMe" = "Delete for me";
 "Chat.Message.DeleteForEveryone" = "Delete for everyone";
+"Chat.Message.UnsendMessages" = "Unsend my messages";
 
 "Chat.CopySelectedText" = "Copy Selected Text";
 
