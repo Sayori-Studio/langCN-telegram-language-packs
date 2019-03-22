@@ -2918,3 +2918,8 @@
 
 
 "Chat.Tooltip.HiddenForwardName" = "The account was hidden by the user";
+
+
+"GeneralSettings.EmojiPrediction.DisableText" = "Disable Prediction?";
+"GeneralSettings.EmojiPrediction.Disable" = "Disable";
+"GeneralSettings.EmojiPrediction" = "Predict Emojies";
