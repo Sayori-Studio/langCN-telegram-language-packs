@@ -759,6 +759,8 @@
 "PeerInfo.Confirm.Clear" = "Clear";
 
 "peerInfo.Confirm.ClearHistory.User" = "This will delete all messages and media in this chat from your Telegram cloud. Your chat partner will still have them.";
+"peerInfo.Confirm.ClearHistory.UserBothSides" = "Are you sure you want to delete all messages in the chat?";
+
 "peerInfo.Confirm.ClearHistory.SavedMesssages" = "This will delete all messages and media in this chat from your Telegram cloud.";
 
 "peerInfo.Confirm.ClearHistory.Group" = "This will delete all messages and media in this chat from your Telegram cloud. Other members of the group will still have them.";
@@ -1543,6 +1545,7 @@
 "GeneralSettings.ForceTouch.Reply" = "Reply to Message";
 "GeneralSettings.ForceTouch.Edit" = "Edit Message";
 "GeneralSettings.ForceTouch.Forward" = "Forward Message";
+"GeneralSettings.ForceTouch.PreviewMedia" = "Preview Media";
 
 
 "ChatMessage.Tooltip.Views" = "views";
@@ -2914,4 +2917,4 @@
 "ChatList.Popover.ReadAll" = "Read All";
 
 
-"Chat.Tooltip.HiddenForwardName" = "%@ hid his account.";
+"Chat.Tooltip.HiddenForwardName" = "The account was hidden by the user";
