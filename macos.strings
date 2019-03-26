@@ -1027,7 +1027,7 @@
 "PrivacySettingsController.ProfilePhoto.NeverShareWith.Title" = "Never Share With";
 
 "PrivacySettingsController.Forwards.WhoCanForward" = "WHO CAN FORWARD MY MESSAGES";
-"PrivacySettingsController.Forwards.CustomHelp" = "You can restrict who can forward your messages with granular precision.";
+"PrivacySettingsController.Forwards.CustomHelp" = "When forwarded to other chats, messages you send will not link back to your account.";
 "PrivacySettingsController.Forwards.AlwaysAllow.Title" = "Always Allow";
 "PrivacySettingsController.Forwards.NeverAllow.Title" = "Never Allow";
 
@@ -2900,7 +2900,13 @@
 "NotificationSettings.ShowNotificationsFrom" = "SHOW NOTIFICATIONS FROM";
 "NotificationSettings.AllAccounts" = "All Accounts";
 "NotificationSettings.ShowNotificationsFrom.On" = "Turn this off if you want to receive notifications only from your active account.";
-"NotificationSettings.ShowNotificationsFrom.Off" = "Turn this on if you want to receive notifications only from all your accounts.";
+"NotificationSettings.ShowNotificationsFrom.Off" = "Turn this on if you want to receive notifications from all your accounts.";
+
+
+"NotificationSettings.SnoofHeader" = "SHOW NOTIFICATIONS WHEN";
+"NotificationSettings.Snoof" = "App is in Focus";
+"NotificationSettings.Snoof.On" = "Turn this off if you want to receive notifications only when application is not in focus.";
+"NotificationSettings.Snoof.Off" = "Turn this on if you want to always receive notifications.";
 
 
 "Login.Register.Desc" = "Enter your name and add a profile picture.";
