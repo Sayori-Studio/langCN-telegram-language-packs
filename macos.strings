@@ -2929,3 +2929,9 @@
 "GeneralSettings.EmojiPrediction.DisableText" = "Disable emoji suggestions? You can re-enable them in Settings at any time.";
 "GeneralSettings.EmojiPrediction.Disable" = "Disable";
 "GeneralSettings.EmojiPrediction" = "Suggest Emoji";
+
+
+
+"NotificationSettings.ContactJoined" = "New Contacts";
+"NotificationSettings.ContactJoinedInfo" = "Receive notifications when one of your contacts becomes available on Telegram.";
+
