@@ -2935,3 +2935,6 @@
 "NotificationSettings.ContactJoined" = "New Contacts";
 "NotificationSettings.ContactJoinedInfo" = "Receive notifications when one of your contacts becomes available on Telegram.";
 
+
+
+"Chat.ViewBackground" = "VIEW BACKGROUND";
