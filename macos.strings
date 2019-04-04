@@ -2941,3 +2941,8 @@
 
 
 "GeneralSettings.BigEmoji" = "Big Emoji";
+
+
+"App.Tooltip.VoiceRecord" = "Hold to record audio. Click to switch to video";
+"App.Tooltip.VideoRecord" = "Hold to record video. Click to switch to audio";
+
