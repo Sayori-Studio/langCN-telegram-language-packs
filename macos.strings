@@ -2930,6 +2930,7 @@
 "GeneralSettings.EmojiPrediction.Disable" = "Disable";
 "GeneralSettings.EmojiPrediction" = "Suggest Emoji";
 
+"GeneralSettings.StatusBarItem" = "Status Bar Item";
 
 
 "NotificationSettings.ContactJoined" = "New Contacts";
@@ -2946,3 +2947,8 @@
 "App.Tooltip.VoiceRecord" = "Hold to record audio. Click to switch to video";
 "App.Tooltip.VideoRecord" = "Hold to record video. Click to switch to audio";
 
+
+
+"StatusBar.Activate" = "Activate";
+"StatusBar.Hide" = "Hide";
+"StatusBar.Quit" = "Quit";
