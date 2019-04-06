@@ -2930,7 +2930,7 @@
 "GeneralSettings.EmojiPrediction.Disable" = "Disable";
 "GeneralSettings.EmojiPrediction" = "Suggest Emoji";
 
-"GeneralSettings.StatusBarItem" = "Status Bar Item";
+"GeneralSettings.StatusBarItem" = "Menu Bar Item";
 
 
 "NotificationSettings.ContactJoined" = "New Contacts";
