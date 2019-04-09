@@ -963,6 +963,8 @@
 "InstalledStickers.Remove.Description" = "Stickers will be archived, you can quickly restore it later from the Archived Stickers section.";
 "InstalledStickers.Remove.Delete" = "Delete";
 "Alert.UserDoesntExists" = "Sorry, this user doesn't seem to exist.";
+"Alert.PrivateChannel.AccessError" = "Unfortunately, you can't access this message. You are not a member of the chat where it was posted.";
+
 "InAppLinks.Confirm.OpenExternal" = "open %@?";
 
 "Login.Header.Code" = "Enter Code";
@@ -2954,3 +2956,6 @@
 "StatusBar.Activate" = "Activate";
 "StatusBar.Hide" = "Hide";
 "StatusBar.Quit" = "Quit";
+
+"Chat.Service.SearchAllMessages" = "Search %@ messages";
+
