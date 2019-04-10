@@ -2957,5 +2957,5 @@
 "StatusBar.Hide" = "Hide";
 "StatusBar.Quit" = "Quit";
 
-"Chat.Service.SearchAllMessages" = "Search %@ messages";
+"Chat.Service.SearchAllMessages" = "Search messages by %@";
 
